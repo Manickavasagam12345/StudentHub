@@ -232,4 +232,6 @@ const Login: React.FC<LoginProps> = ({ setIsLoggedIn, onSwitchToRegister, onLogi
     </div>
   );
 };
+
+
 export default Login;
